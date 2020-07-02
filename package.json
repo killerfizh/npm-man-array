@@ -1,0 +1,12 @@
+{
+  "name": "man-array",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "author": "Krishna Kompalli",
+  "license": "ISC",
+  "keywords": [
+    "lodash-methods",
+    "array-manipulation"
+  ]
+}
